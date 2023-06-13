@@ -1,0 +1,306 @@
+Training image:  MinhCuong.01.1.jpg
+Training completed for image:  MinhCuong.01.1.jpg
+
+Training image:  MinhCuong.01.10.jpg
+Training completed for image:  MinhCuong.01.10.jpg
+
+Training image:  MinhCuong.01.11.jpg
+Training completed for image:  MinhCuong.01.11.jpg
+
+Training image:  MinhCuong.01.12.jpg
+Training completed for image:  MinhCuong.01.12.jpg
+
+Training image:  MinhCuong.01.13.jpg
+Training completed for image:  MinhCuong.01.13.jpg
+
+Training image:  MinhCuong.01.14.jpg
+Training completed for image:  MinhCuong.01.14.jpg
+
+Training image:  MinhCuong.01.15.jpg
+Training completed for image:  MinhCuong.01.15.jpg
+
+Training image:  MinhCuong.01.16.jpg
+Training completed for image:  MinhCuong.01.16.jpg
+
+Training image:  MinhCuong.01.17.jpg
+Training completed for image:  MinhCuong.01.17.jpg
+
+Training image:  MinhCuong.01.18.jpg
+Training completed for image:  MinhCuong.01.18.jpg
+
+Training image:  MinhCuong.01.19.jpg
+Training completed for image:  MinhCuong.01.19.jpg
+
+Training image:  MinhCuong.01.2.jpg
+Training completed for image:  MinhCuong.01.2.jpg
+
+Training image:  MinhCuong.01.20.jpg
+Training completed for image:  MinhCuong.01.20.jpg
+
+Training image:  MinhCuong.01.21.jpg
+Training completed for image:  MinhCuong.01.21.jpg
+
+Training image:  MinhCuong.01.22.jpg
+Training completed for image:  MinhCuong.01.22.jpg
+
+Training image:  MinhCuong.01.23.jpg
+Training completed for image:  MinhCuong.01.23.jpg
+
+Training image:  MinhCuong.01.24.jpg
+Training completed for image:  MinhCuong.01.24.jpg
+
+Training image:  MinhCuong.01.25.jpg
+Training completed for image:  MinhCuong.01.25.jpg
+
+Training image:  MinhCuong.01.26.jpg
+Training completed for image:  MinhCuong.01.26.jpg
+
+Training image:  MinhCuong.01.27.jpg
+Training completed for image:  MinhCuong.01.27.jpg
+
+Training image:  MinhCuong.01.28.jpg
+Training completed for image:  MinhCuong.01.28.jpg
+
+Training image:  MinhCuong.01.29.jpg
+Training completed for image:  MinhCuong.01.29.jpg
+
+Training image:  MinhCuong.01.3.jpg
+Training completed for image:  MinhCuong.01.3.jpg
+
+Training image:  MinhCuong.01.30.jpg
+Training completed for image:  MinhCuong.01.30.jpg
+
+Training image:  MinhCuong.01.31.jpg
+Training completed for image:  MinhCuong.01.31.jpg
+
+Training image:  MinhCuong.01.32.jpg
+Training completed for image:  MinhCuong.01.32.jpg
+
+Training image:  MinhCuong.01.33.jpg
+Training completed for image:  MinhCuong.01.33.jpg
+
+Training image:  MinhCuong.01.34.jpg
+Training completed for image:  MinhCuong.01.34.jpg
+
+Training image:  MinhCuong.01.35.jpg
+Training completed for image:  MinhCuong.01.35.jpg
+
+Training image:  MinhCuong.01.4.jpg
+Training completed for image:  MinhCuong.01.4.jpg
+
+Training image:  MinhCuong.01.5.jpg
+Training completed for image:  MinhCuong.01.5.jpg
+
+Training image:  MinhCuong.01.6.jpg
+Training completed for image:  MinhCuong.01.6.jpg
+
+Training image:  MinhCuong.01.7.jpg
+Training completed for image:  MinhCuong.01.7.jpg
+
+Training image:  MinhCuong.01.8.jpg
+Training completed for image:  MinhCuong.01.8.jpg
+
+Training image:  MinhCuong.01.9.jpg
+Training completed for image:  MinhCuong.01.9.jpg
+
+Training image: caolehuy.jpg
+Training completed for image: caolehuy.jpg
+
+Training image: jeonjungkook.jpg
+Training completed for image: jeonjungkook.jpg
+
+Training image: luongducmanh.jpg
+Training completed for image: luongducmanh.jpg
+
+Training image: MinhCuong.01.1.jpg
+Training completed for image: MinhCuong.01.1.jpg
+
+Training image: MinhCuong.01.10.jpg
+Training completed for image: MinhCuong.01.10.jpg
+
+Training image: MinhCuong.01.11.jpg
+Training completed for image: MinhCuong.01.11.jpg
+
+Training image: MinhCuong.01.12.jpg
+Training completed for image: MinhCuong.01.12.jpg
+
+Training image: MinhCuong.01.13.jpg
+Training completed for image: MinhCuong.01.13.jpg
+
+Training image: MinhCuong.01.14.jpg
+Training completed for image: MinhCuong.01.14.jpg
+
+Training image: MinhCuong.01.15.jpg
+Training completed for image: MinhCuong.01.15.jpg
+
+Training image: MinhCuong.01.16.jpg
+Training completed for image: MinhCuong.01.16.jpg
+
+Training image: MinhCuong.01.17.jpg
+Training completed for image: MinhCuong.01.17.jpg
+
+Training image: MinhCuong.01.18.jpg
+Training completed for image: MinhCuong.01.18.jpg
+
+Training image: MinhCuong.01.19.jpg
+Training completed for image: MinhCuong.01.19.jpg
+
+Training image: MinhCuong.01.2.jpg
+Training completed for image: MinhCuong.01.2.jpg
+
+Training image: MinhCuong.01.20.jpg
+Training completed for image: MinhCuong.01.20.jpg
+
+Training image: MinhCuong.01.21.jpg
+Training completed for image: MinhCuong.01.21.jpg
+
+Training image: MinhCuong.01.22.jpg
+Training completed for image: MinhCuong.01.22.jpg
+
+Training image: MinhCuong.01.23.jpg
+Training completed for image: MinhCuong.01.23.jpg
+
+Training image: MinhCuong.01.24.jpg
+Training completed for image: MinhCuong.01.24.jpg
+
+Training image: MinhCuong.01.25.jpg
+Training completed for image: MinhCuong.01.25.jpg
+
+Training image: MinhCuong.01.26.jpg
+Training completed for image: MinhCuong.01.26.jpg
+
+Training image: MinhCuong.01.27.jpg
+Training completed for image: MinhCuong.01.27.jpg
+
+Training image: MinhCuong.01.28.jpg
+Training completed for image: MinhCuong.01.28.jpg
+
+Training image: MinhCuong.01.29.jpg
+Training completed for image: MinhCuong.01.29.jpg
+
+Training image: MinhCuong.01.3.jpg
+Training completed for image: MinhCuong.01.3.jpg
+
+Training image: MinhCuong.01.30.jpg
+Training completed for image: MinhCuong.01.30.jpg
+
+Training image: MinhCuong.01.31.jpg
+Training completed for image: MinhCuong.01.31.jpg
+
+Training image: MinhCuong.01.32.jpg
+Training completed for image: MinhCuong.01.32.jpg
+
+Training image: MinhCuong.01.33.jpg
+Training completed for image: MinhCuong.01.33.jpg
+
+Training image: MinhCuong.01.34.jpg
+Training completed for image: MinhCuong.01.34.jpg
+
+Training image: MinhCuong.01.35.jpg
+Training completed for image: MinhCuong.01.35.jpg
+
+Training image: MinhCuong.01.36.jpg
+Training completed for image: MinhCuong.01.36.jpg
+
+Training image: MinhCuong.01.37.jpg
+Training completed for image: MinhCuong.01.37.jpg
+
+Training image: MinhCuong.01.38.jpg
+Training completed for image: MinhCuong.01.38.jpg
+
+Training image: MinhCuong.01.39.jpg
+Training completed for image: MinhCuong.01.39.jpg
+
+Training image: MinhCuong.01.4.jpg
+Training completed for image: MinhCuong.01.4.jpg
+
+Training image: MinhCuong.01.40.jpg
+Training completed for image: MinhCuong.01.40.jpg
+
+Training image: MinhCuong.01.41.jpg
+Training completed for image: MinhCuong.01.41.jpg
+
+Training image: MinhCuong.01.42.jpg
+Training completed for image: MinhCuong.01.42.jpg
+
+Training image: MinhCuong.01.43.jpg
+Training completed for image: MinhCuong.01.43.jpg
+
+Training image: MinhCuong.01.44.jpg
+Training completed for image: MinhCuong.01.44.jpg
+
+Training image: MinhCuong.01.45.jpg
+Training completed for image: MinhCuong.01.45.jpg
+
+Training image: MinhCuong.01.46.jpg
+Training completed for image: MinhCuong.01.46.jpg
+
+Training image: MinhCuong.01.47.jpg
+Training completed for image: MinhCuong.01.47.jpg
+
+Training image: MinhCuong.01.48.jpg
+Training completed for image: MinhCuong.01.48.jpg
+
+Training image: MinhCuong.01.49.jpg
+Training completed for image: MinhCuong.01.49.jpg
+
+Training image: MinhCuong.01.5.jpg
+Training completed for image: MinhCuong.01.5.jpg
+
+Training image: MinhCuong.01.50.jpg
+Training completed for image: MinhCuong.01.50.jpg
+
+Training image: MinhCuong.01.51.jpg
+Training completed for image: MinhCuong.01.51.jpg
+
+Training image: MinhCuong.01.52.jpg
+Training completed for image: MinhCuong.01.52.jpg
+
+Training image: MinhCuong.01.53.jpg
+Training completed for image: MinhCuong.01.53.jpg
+
+Training image: MinhCuong.01.54.jpg
+Training completed for image: MinhCuong.01.54.jpg
+
+Training image: MinhCuong.01.55.jpg
+Training completed for image: MinhCuong.01.55.jpg
+
+Training image: MinhCuong.01.56.jpg
+Training completed for image: MinhCuong.01.56.jpg
+
+Training image: MinhCuong.01.57.jpg
+Training completed for image: MinhCuong.01.57.jpg
+
+Training image: MinhCuong.01.58.jpg
+Training completed for image: MinhCuong.01.58.jpg
+
+Training image: MinhCuong.01.59.jpg
+Training completed for image: MinhCuong.01.59.jpg
+
+Training image: MinhCuong.01.6.jpg
+Training completed for image: MinhCuong.01.6.jpg
+
+Training image: MinhCuong.01.60.jpg
+Training completed for image: MinhCuong.01.60.jpg
+
+Training image: MinhCuong.01.61.jpg
+Training completed for image: MinhCuong.01.61.jpg
+
+Training image: MinhCuong.01.7.jpg
+Training completed for image: MinhCuong.01.7.jpg
+
+Training image: MinhCuong.01.8.jpg
+Training completed for image: MinhCuong.01.8.jpg
+
+Training image: MinhCuong.01.9.jpg
+Training completed for image: MinhCuong.01.9.jpg
+
+Training image: nguyen tuan kiet-0.jpg
+Training completed for image: nguyen tuan kiet-0.jpg
+
+Training image: nguyendoannhatminh.jpg
+Training completed for image: nguyendoannhatminh.jpg
+
+Training image: vuquocnghia.jpg
+Training completed for image: vuquocnghia.jpg
+
