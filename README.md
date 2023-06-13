@@ -155,14 +155,25 @@ Bạn có thể sử dụng cả hai chỉ số này để đo lường hiệu s
 
 ##  Liên hệ với tôi:
 upwork: ``` https://www.upwork.com/freelancers/~011ca77d21dc10889d  ```
+
 facebook: ``` https://www.facebook.com/mcng.2806/ ```
+
 fiver: ``` https://www.fiverr.com/macdaiqua147?up_rollout=true ```
+
 github: ``` https://github.com/kyoo-147 ```
+
 twitter: ``` https://twitter.com/mih_cuog ```
+
 gmail: ``` ngoctuanvinh1332@gmail.com ```
+
 gmail: ``` baemyungkang2806@gmail.com ```
+
 youtube: ``` https://www.youtube.com/@kyoodavision1332 ```
+
 linkedin: ``` https://www.linkedin.com/in/minh-cuong-bui/ ```
+
 dribble: ``` https://dribbble.com/macdaiqua147 ```
+
 instagram: ``` https://www.instagram.com/1332_kyojunehieight/ ```
+
 zalo: ``` https://zalo.me/0365646109 ```# ProjectAppRecognition
