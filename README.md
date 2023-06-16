@@ -35,7 +35,7 @@ khung với những cái trong bộ sưu tập. Sau đó, kết quả xử lý �
 được trực quan hóa và hiển thị trên màn hình hoặc được ghi vào tệp đầu ra.
 
 
-## hững chuẩn bị cho việc chạy chương trình
+## Những chuẩn bị cho việc chạy chương trình
 
 - Các mô hình đã được tải sẵn về trong chương trình, bạn có thể tìm thấy các phiên bản của chúng tại
 thư mục intel/ hoặc public/
