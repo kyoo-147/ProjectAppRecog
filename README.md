@@ -1,7 +1,4 @@
 # Hệ thống giao diện nhận diện tích hợp lấy dữ liệu, train, nhận diện trên một giao diện
-          ---- Phát triển bởi Bùi Minh Cường ------
-
-
 
 - Hệ thống hoạt động dựa trên nguyên tắc giao diện minh họa cho một ứng dụng
 có thể lấy dữ liệu data của người dùng, đào tạo mô hình, và nhận diện được 
